@@ -1,6 +1,5 @@
 ## TOKEN
-Create a Token
-
+Getting Started with Solidity. The project is to create a Token. 
 ## Description
 
 In this project we created contract that has public variables about our coin. It has main functions such as mint and burn function. 
